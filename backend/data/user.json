@@ -8,17 +8,17 @@
     {
       "id": "u1",
       "firstName": "Ivan",
-      "lastName": "Petrov",
+      "lastName": "Kuligin",
       "gender": "Male",
-      "email": "ivan@example.com",
-      "password": "ivanPasswordHash"
+      "email": "Ivan@example.com",
+      "password": "IvanPasswordHash"
     },
     {
       "id": "fac1fecf-5c39-4850-a2f1-22c24cc990cb",
-      "firstName": "Lovash",
-      "lastName": "Love",
+      "firstName": "WEB",
+      "lastName": "IRTW",
       "gender": "Male",
-      "email": "Lovash@mail.ru",
+      "email": "WEB@mail.ru",
       "password": "$2b$10$wqg5Z0PbUhMpsATAHE.HyOikJuNwmXkwMKMr6t9xwUvvYGbxUvUbS"
     }
   ]
